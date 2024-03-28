@@ -10,7 +10,8 @@ Model training and analysis was all done with scikit-learn in Python ([file](Cre
 
 Confusion Matrix: 
 - [18679, 80], [67, 558]
-  - Confusion matrix indicates prescence of false negatives and false positives 
+  - Confusion matrix indicates prescence of false negatives and false positives
+
 Classification Report:
 - Accuracy: Accuracy value of 0.99 indicates a strong ability of this model to make predictions.
 - Healthy Loan: Precision = 1.00, Recall = 1.00, F1-Score = 1.00, Support = 18759
